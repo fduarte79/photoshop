@@ -4,7 +4,7 @@
 
 **Largura**:   
 **Altura**:   
-**Unidade de medida**: pixels, polegadas, cm, mm, pontos, paicas   
+**Unidade de medida**: px, pol, cm, mm, pontos, paicas   
 **Orientação**: retrato, paisaigem, prancheta   
 **Resolução**:    
 **Unidade de medida**: pixels/polegada, pixels/centímetro   
@@ -35,7 +35,7 @@
 
 ## Foto
 
-| cm  | pol | pixel (300ppi) | Megapixels |
+| cm  | pol | px (300ppi)    | Megapixels |
 |:---:|:---:|:--------------:|:----------:|
 |07x12|03x05|0900x1500       | 01.35      |
 |10x15|04x06|1200x1800       | 02.16      |
@@ -49,6 +49,15 @@
 ---
 
 ## Arte e Ilustração
+
+| Tipo             | Dimensão     |
+|:-----------------|:-------------|
+| grade de 2000 px | 2000x2000 px |
+| 1080p            | 1920x1080 px |
+| 0720p            | 1280x0720 px |
+| grade de 1000 px | 1000x1000 px |
+| Cartaz           | 18x24 pol    | 
+| Cartão postal    | 04x06 pol    |
 
 ---
 
