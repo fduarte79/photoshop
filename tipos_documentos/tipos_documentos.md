@@ -16,6 +16,10 @@
 
 ### Foto
 
+| cm | pol | pixel (300ppi) | Megapixels |
+|:---|:----|:---------------|:-----------|
+|7x12|
+
 ### Arte e Ilustração
 
 ### Web
