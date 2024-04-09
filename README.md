@@ -7,7 +7,7 @@
 # Referências
 
 **Adobe**   
-[Boas-vindas ao Guia do Usuário do Photoshop]()   
+[Boas-vindas ao Guia do Usuário do Photoshop](https://helpx.adobe.com/br/photoshop/user-guide.html)   
 
 **Youtube**   
 [Curso Photoshop 22/2023 - Px MASTERS](PLquSXjlsANIX1dUMzYkkjI7w4gbH8KO7a)   
