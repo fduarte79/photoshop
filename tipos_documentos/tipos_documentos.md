@@ -1,6 +1,6 @@
 # Tipos de Documentos
 
-[Propriedades](1.png)
+![Propriedades](1.png)
 
 ### Foto
 
