@@ -21,3 +21,5 @@
 + 1 click - seleciona o ícone
 + 1 click + manter pressionado - abre outras opções do ícone
 + 2 click - expande/recolhe abas
+
+[Home](..\..\readme.md)
