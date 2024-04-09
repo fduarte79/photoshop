@@ -16,6 +16,23 @@
 
 ---
 
+## Impressão 
+
+| Tipo | Dimensão (300ppi) |
+|:-----|:------------------|
+| A6   | 105x148 mm        |
+| A5   | 148x210 mm        |
+| A3   | 297x420 mm        |
+| B5   | 176x250 mm        |
+| B4   | 250x353 mm        |
+| B3   | 353x500 mm        |
+| C4   | 229x324 mm        |
+| C5   | 162x229 mm        |
+| C6   | 114x162 mm        |
+| DL   | 110x220 mm        |
+
+---
+
 ## Foto
 
 | cm  | pol | pixel (300ppi) | Megapixels |
