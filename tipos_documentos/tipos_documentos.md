@@ -1,3 +1,3 @@
 # Tipos de Documentos
 
-[Home](../READEME.md)
+[Home](../README.md)
