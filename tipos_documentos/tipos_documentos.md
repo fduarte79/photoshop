@@ -33,6 +33,16 @@
 
 ### Dispositivos móveis
 
+| Uso                                                          | Celular | Máquina |
+|:------------------------------------------------------------:|:-------:|:-------:|
+| feed instagram                                               | 01x01   | 01x01   |
+|                                                              |         | 02x03   |
+| default (visão completa)                                     | 03x04   | 03x04   |
+| full hd (filmes), stories instagram                          | 09x16   | 09x16   |
+|                                                              | 09x22   |         |
+| ocupa toda a tela do celular (depende do formato do celular) | full    |         |
+
+
 ### Filme e Vídeo
 
 [Home](../README.md)
