@@ -1,4 +1,4 @@
-# Tipos de Documentos
+# Objetivos, proporção e tamanhos
 
 ![Propriedades](1.png)
 
