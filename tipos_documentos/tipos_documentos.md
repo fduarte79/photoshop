@@ -8,9 +8,9 @@
 **Orientação**: retrato, paisaigem, prancheta   
 **Resolução**:    
 **Unidade de medida**: pixels/polegada, pixels/centímetro   
-**Modo de cores**:    
-**Quantidade de bits**:    
-**Plano de fundo**:    
+**Modo de cores**: bitmap, tons de cinza, RGB, CMYK, Lab       
+**Quantidade de bits**: 8, 16, 32    
+**Plano de fundo**: branco, preto, cor, transparante, personalizado    
 **Perfil de cor**:    
 **Proporção de pixels**:    
 
