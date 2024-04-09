@@ -14,4 +14,7 @@
 [Curso Photoshop Susse (Básico ao Avançado) + Materiais de Apoio](https://www.youtube.com/playlist?list=PLuDfCQO9tvX1x6G-JCINP8SfgneLB7mtV)   
 [Curso Completo de Photoshop 100% Gratuito Matheus Penteado - Design](https://www.youtube.com/playlist?list=PL36fy0HIN6VrzMqqsa8I6q3zYR7nSDZmK)   
 
+**Sites**   
+[DWGitial - Tamanho correto de imagem para redes sociais [2023]](https://dwdigital.com.br/tamanho-de-imagem-para-redes-sociais-2023/)   
+
 [HOME](../README.md)
