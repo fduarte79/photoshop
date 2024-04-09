@@ -77,7 +77,15 @@
 
 ---
 
-## Dispositivos móveis
+## Dispositivos Móveis
+
+---
+
+## Filme e Vídeo
+
+---
+
+## Proporção em Dispositivos Móveis e Máquinas Fotográficas (Cropadas)
 
 | Celular | Máquina | Uso                                               |
 |:-------:|:-------:|:--------------------------------------------------|
@@ -87,10 +95,6 @@
 | 09x16   | 09x16   | full hd (filmes), stories instagram               | 
 | 09x22   |         |                                                   | 
 | full    |         | ocupa toda a tela do celular (depende do formato) | 
-
----
-
-## Filme e Vídeo
 
 ---
 
