@@ -14,7 +14,7 @@
 **Perfil de cor**:    
 **Proporção de pixels**:    
 
-### Foto
+## Foto
 
 | cm  | pol | pixel (300ppi) | Megapixels |
 |:---:|:---:|:--------------:|:----------:|
@@ -27,11 +27,11 @@
 |25x38|10x15|3000x4500       | 13.50      |
 |30x45|12x18|3600x5400       | 19.40      |
 
-### Arte e Ilustração
+## Arte e Ilustração
 
-### Web
+## Web
 
-### Dispositivos móveis
+## Dispositivos móveis
 
 | Celular | Máquina | Uso                                               |
 |:-------:|:-------:|:--------------------------------------------------|
@@ -42,7 +42,22 @@
 | 09x22   |         |                                                   | 
 | full    |         | ocupa toda a tela do celular (depende do formato) | 
 
+## Filme e Vídeo
 
-### Filme e Vídeo
+## Redes Sociais
+
++ Instagram
+
++ Facebook
+
++ Twitter
+
++ Youtube
+
++ LinkedIn
+
++ WhatsApp
+
++ Pinterest 
 
 [Home](../README.md)
