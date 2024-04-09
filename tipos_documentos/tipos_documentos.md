@@ -33,14 +33,14 @@
 
 ### Dispositivos móveis
 
-| Uso                                               | Celular | Máquina |
-|:--------------------------------------------------|:-------:|:-------:|
-| feed instagram                                    | 01x01   | 01x01   |
-|                                                   |         | 02x03   |
-| default (visão completa)                          | 03x04   | 03x04   |
-| full hd (filmes), stories instagram               | 09x16   | 09x16   |
-|                                                   | 09x22   |         |
-| ocupa toda a tela do celular (depende do formato) | full    |         |
+| Celular | Máquina | Uso                                               |
+|:-------:|:-------:|:--------------------------------------------------|
+| 01x01   | 01x01   | feed instagram                                    | 
+|         | 02x03   |                                                   | 
+| 03x04   | 03x04   | default (visão completa)                          |
+| 09x16   | 09x16   | full hd (filmes), stories instagram               | 
+| 09x22   |         |                                                   | 
+| full    |         | ocupa toda a tela do celular (depende do formato) | 
 
 
 ### Filme e Vídeo
