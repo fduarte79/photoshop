@@ -4,9 +4,10 @@
 
 **Largura**:   
 **Altura**:   
-**Unidade de medida**:   
-**Orientação**:    
+**Unidade de medida**: pixels, polegadas, cm, mm, pontos, paicas   
+**Orientação**: retrato, paisaigem, prancheta   
 **Resolução**:    
+**Unidade de medida**: pixels/polegada, pixels/centímetro   
 **Modo de cores**:    
 **Quantidade de bits**:    
 **Plano de fundo**:    
