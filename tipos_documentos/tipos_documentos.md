@@ -14,6 +14,8 @@
 **Perfil de cor**:    
 **Proporção de pixels**:    
 
+---
+
 ## Foto
 
 | cm  | pol | pixel (300ppi) | Megapixels |
@@ -27,9 +29,15 @@
 |25x38|10x15|3000x4500       | 13.50      |
 |30x45|12x18|3600x5400       | 19.40      |
 
+---
+
 ## Arte e Ilustração
 
+---
+
 ## Web
+
+---
 
 ## Dispositivos móveis
 
@@ -42,7 +50,11 @@
 | 09x22   |         |                                                   | 
 | full    |         | ocupa toda a tela do celular (depende do formato) | 
 
+---
+
 ## Filme e Vídeo
+
+---
 
 ## Redes Sociais
 
