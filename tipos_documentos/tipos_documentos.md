@@ -63,6 +63,18 @@
 
 ## Web
 
+| Dimensão     | Função            |
+|:------------:|:------------------|
+| 2880x1800 px | MacBook Pro 15    |
+| 2560x1600 px | MacBook Pro 13    |
+| 2560x1440 px | iMac 27           |
+| 1920x1080 px | Grande Web        |
+| 1440x1024 px | Desktop HD Design |
+| 1440x0900 px | Media Web         |
+| 1366x0768 px | Default Web       |
+| 1280x0800 px | Pequena Web       |
+| 1024x0768 px | Mínimo Web        |
+
 ---
 
 ## Dispositivos móveis
