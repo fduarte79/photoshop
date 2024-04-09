@@ -1,7 +1,7 @@
 # Estudos sobre Adobe Photoshop
 
 [Introdução](introducao/introducao.md)    
-[Tipos de documentos](tipos/tipos.md)
+[Tipos de documentos](tipos/tipos.md)   
 [Zoom e navegação](zoom/zoom.md)   
 
 # Referências
