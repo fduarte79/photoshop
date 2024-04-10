@@ -3,6 +3,7 @@
 [Introdução](introducao/introducao.md)    
 [Tipos de documentos](tipos_documentos/tipos_documentos.md)   
 [Zoom e navegação](zoom/zoom.md)   
+[Ferramenta de Seleção](selecao/selecao.md)
 
 # Referências
 
