@@ -16,6 +16,6 @@
 
 **Sites**   
 [DWGitial - Tamanho correto de imagem para redes sociais [2023]](https://dwdigital.com.br/tamanho-de-imagem-para-redes-sociais-2023/)   
-[Guia de formatos de vídeo para redes sociais em 2023](https://www.imazblog.com.br/post/guia-de-formatos-de-v%C3%ADdeo-para-redes-sociais-em-2023)   
+[Guia de tamanhos de vídeos para redes sociais em 2024](https://rockcontent.com/br/blog/tamanhos-de-videos-redes-sociais/)   
 
 [HOME](../README.md)
