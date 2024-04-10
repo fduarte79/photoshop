@@ -83,16 +83,20 @@
 
 ## Filme e vídeo
 
-| Dimensão      | Função            |
-|:-------------:|:------------------|
-| 1920x1080 px  | HDTV 1080 p       |
-| 1280x0720 px  | HDV/HDTV 720p     |
-| 1440x1080 px  | HDV 1080p         |
-| 0960x0720 px  | DVCPRO HD 720p    |
-| 1280x1080 px  | DVCPRO HD 1080p   |
-| 2048x1080 px  | DCI 2k 1080p      |
-| 3840x2160 px  | UHDTV/4K 2160p    |
-| 4096x2179 px  | DCI 4K 2160p      |    
+| Dimensão      | Função             |
+|:-------------:|:-------------------|
+| 1920x1080 px  | HDTV 1080 p        |
+| 1280x0720 px  | HDV/HDTV 720p      |
+| 1440x1080 px  | HDV 1080p          |
+| 0960x0720 px  | DVCPRO HD 720p     |
+| 1280x1080 px  | DVCPRO HD 1080p    |
+| 2048x1080 px  | DCI 2k 1080p       |
+| 3840x2160 px  | UHDTV/4K 2160p     |
+| 4096x2179 px  | DCI 4K 2160p       |    
+| 7680x4320 px  | FUHDTV 8K 4320p    |
+| 8192X4320 px  | DCI 8K 4320p       |
+| 0720X0480 px  | NTSC DV            |
+| 0720X0480 px  | NTSC DV tela larga |
 
 ---
 
