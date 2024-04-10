@@ -97,6 +97,11 @@
 | 8192X4320 px  | DCI 8K 4320p       |
 | 0720X0480 px  | NTSC DV            |
 | 0720X0480 px  | NTSC DV tela larga |
+| 0720x0486 px  | NTSC D1            |
+| 0720x0576 px  | PAL D1/DV          |
+| 2048x1556 px  | Filme (2K)         |
+| 4096x3112 px  | Filme (4K)         |
+| 8192x6224 px  | Filme (8K)         |
 
 ---
 
