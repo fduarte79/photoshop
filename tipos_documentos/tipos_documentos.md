@@ -121,78 +121,79 @@
 ## Imagens para redes sociais
 
 ### Instagram
-+ Perfil no Instagram   
-Imagem de perfil: 720 x 720 px   
++ Perfil
+Imagem de perfil: 720x720px   
 
-+ Posts no Instagram
-Imagem quadrada do feed: 1080 x 1080 px   
-Imagem vertical do feed: 1080 x 1350 px (altura máxima)   
-Imagem horizontal do feed: 1080 x 566 px (altura mínima)   
-Um detalhe atualizado no ano de 2022/2023 é que as imagens na vertical com tamanho de 1080 x 1350 px criam uma visualização melhor, dando mais destaque para o conteúdo que se está vendo ao invés dos próximos post como nas imagens horizontais e quadradas.
++ Posts
+Imagem quadrada do feed: 1080x1080px   
+Imagem vertical do feed¹: 1080x1350px (altura máxima)   
+Imagem horizontal do feed: 1080x566px (altura mínima)   
+¹:c riam uma visualização melhor, dando mais destaque para o conteúdo que se está vendo   
 
-+ Instagram Stories
-Instagram Stories: 1080 x 1920 px (mínimo 600 x 1067 px)
++ Stories   
+Stories: 1080x1920px (mínimo 600x1067px)
 
 ### Facebook
-+ Capa e perfil para Grupos, Eventos e página pessoal no Facebook     
-Imagem de capa: 851 x 315 px     
-Imagem de capa para Grupos: 640 x 334 px     
-Imagem de capa para Eventos: 1920 x 1080 px      
-Imagem de perfil: 180 x 180 px     
++ Capa e perfil para Grupos, Eventos e página pessoal     
+Capa: 851x315px     
+Capa para Grupos: 640x334px     
+Capa para Eventos: 1920x1080px      
+Perfil: 180x180px     
 
-+ Postagens no Facebook     
-Post com imagem: 1200 x 1200 px     
-Post com link e imagem: 1200 x 628 px     
-Facebook Stories: 1080 x 1920 px     
++ Postagens    
+Imagem: 1200x1200px     
+Link e imagem: 1200x628px     
+Stories: 1080x1920px     
 
-+ Anúncios no Facebook     
-Anúncio com imagem única: 400 x 500 px (mínimo)     
-Anúncio com link e imagem: 1080 x 1080 px (recomendado)     
-Anúncio com carrossel: 1080 x 1080 px (recomendado)     
++ Anúncios     
+Imagem única: 400x500px (mínimo)     
+Link e imagem: 1080x1080px (recomendado)     
+Com carrossel: 1080x1080px (recomendado)     
 
 ### Twitter   
 + Perfil e capa no Twitter    
-Imagem de capa: 1500 x 500 px     
-Imagem de perfil: 400 x 400 px    
+Capa: 1500x500px     
+Perfil: 400x400px    
 
 + Postagem no Twitter    
-Post com imagem: 600 x 335 px (16:9) ou 1200 x 1200 px (1:1)      
-Post com link e imagem: 800 x 418 px (1.91:1) ou 800 x 800 px (1:1)      
+Imagem: 600x335px (16:9) ou 1200x1200px (1:1)      
+Link e imagem: 800x418px (1.91:1) ou 800x800px (1:1)      
 
 ### Youtube   
-+ Imagem de capa do canal (Informações principais: 1546 x 423 px):   
-TV: 2560 x 1440 px      
-Desktop: 2560 x 423 px      
-Tablet: 1855 x 423 px     
-Smartphones: 1546 x 423 px     
-Imagem de perfil do canal: 800 x 800 px     
++ Imagem de capa do canal:
+Informações principais: 1546x423px:   
+TV: 2560x1440px      
+Desktop: 2560x423px      
+Tablet: 1855x423px     
+Smartphones: 1546x423px     
+Imagem de perfil do canal: 800x800px     
 
-+ Thumbnail no Youtube   
-Thumbnail dos vídeos: 1280 x 720 px    
++ Thumbnail   
+Thumbnail dos vídeos: 1280x720px    
 
 ### LinkedIn   
 + Capa e perfil no LinkedIn     
-Imagem de capa: 1536 x 768 px     
-Imagem de perfil: 300 x 300 px     
+Capa: 1536x768px     
+Perfil: 300 300px     
 
-+ Postagem no LinkedIn     
-Post com imagem: 1200 x 1200 px     
-Post com link e imagem: 1200 x 627 px     
++ Postagem  
+Imagem: 1200x1200px     
+Link e imagem: 1200x627px     
 
 ### WhatsApp
-+ Imagem de perfil: 192 x 192 px     
++ Imagem de perfil: 192x192px     
 
-+ Thumbnail e Status no Whatsapp    
-Thumbnail da imagem na conversa: 600 x 600 px     
-WhatsApp Status: 1080 x 1920 px     
++ Thumbnail e Status   
+Thumbnail da imagem na conversa: 600x600px     
+WhatsApp Status: 1080x1920px     
 
 ### Pinterest    
-+ Perfil no Pinterest     
-Imagem de perfil: 720 x 720 px      
++ Perfil   
+Imagem: 720x720px      
 
 + Pins e capas de pastas no Pinterest    
-Pin: 1000 x 1500 px (recomendado)     
-Capa das pastas: 200 x 200 px     
+Pin: 1000x1500px (recomendado)     
+Capa das pastas: 200x200px     
 
 ---
 
