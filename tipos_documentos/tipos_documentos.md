@@ -48,7 +48,7 @@
 
 ---
 
-## Arte e Ilustração
+## Arte e ilustração
 
 | Tipo             | Dimensão     |
 |:-----------------|:-------------|
@@ -77,15 +77,26 @@
 
 ---
 
-## Dispositivos Móveis
+## Dispositivos móveis
 
 ---
 
-## Filme e Vídeo
+## Filme e vídeo
+
+| Dimensão      | Função            |
+|:-------------:|:------------------|
+| 1920x1080 px  | HDTV 1080 p       |
+| 1280x0720 px  | HDV/HDTV 720p     |
+| 1440x1080 px  | HDV 1080p         |
+| 0960x0720 px  | DVCPRO HD 720p    |
+| 1280x1080 px  | DVCPRO HD 1080p   |
+| 2048x1080 px  | DCI 2k 1080p      |
+| 3840x2160 px  | UHDTV/4K 2160p    |
+| 4096x2179 px  | DCI 4K 2160p      |    
 
 ---
 
-## Proporção em Dispositivos Móveis e Máquinas Fotográficas (Cropadas)
+## Proporção em dispositivos móveis e máquinas fotográficas (cropadas)
 
 | Celular | Máquina | Uso                                               |
 |:-------:|:-------:|:--------------------------------------------------|
@@ -98,7 +109,7 @@
 
 ---
 
-## Redes Sociais
+## Imagens para redes sociais
 
 ### Instagram
 + Perfil no Instagram   
@@ -173,6 +184,12 @@ Imagem de perfil: 720 x 720 px
 + Pins e capas de pastas no Pinterest
 Pin: 1000 x 1500 px (recomendado)    
 Capa das pastas: 200 x 200 px   
+
+---
+
+## Vídeos para redes sociais
+
+
 
 [Home](../README.md)
 
