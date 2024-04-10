@@ -21,11 +21,8 @@
 ---
 
 ## Deslocamento 
-
-Tecla de atalho: H
-
++ Tecla de atalho: h
 + Deslocamento com mouse
 + Deslocamento pelas barras de rolagens
 + Manter a barra de espaço pressionado enquanto desloca com o cursor
-
 + **Janela navegador**: Menu principal, Janela navegador
