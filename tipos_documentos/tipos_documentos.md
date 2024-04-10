@@ -196,7 +196,24 @@ Capa das pastas: 200 x 200 px
 
 ---
 
-## Vídeos para redes sociais
+## Vídeos para redes sociais     
+
+### Youtube    
+Tamanhos recomendados: 1280x720 (720p), 1920x1080 (1080p), 426x240, 640x360, 854x480,  2560x1440, 3840x2160;     
+Formatos: .AVI, .WMV, .MPEGPS, MP4, .FLV, .MOV, .MPEG4, WebM e 3GPP;    
+Tamanho máximo: 128GB ou 12h    
+
+### Facebook
+
++ Timeline   
+Largura máxima: 600 pixels;   
+Ratio - Paisagem: 16:9;   
+Ratio - Retrato: 9:16;    
+Ratio - Mobile: 2:3;    
+Tamanho máximo: 4GB;     
+Formatos: .MP4 e .MOV;    
+Duração máxima: 120 minutos;     
+Taxa de frames máxima: 30 fps.    
 
 
 
