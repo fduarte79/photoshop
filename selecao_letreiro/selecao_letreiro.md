@@ -1,7 +1,7 @@
 # Ferramenta de Seleção Letreiro
 
-## Ferramenta de letreiro retangular
+## Letreiro retangular
 
 
 
-## Ferramenta de letreiro elíptico
+## Letreiro elíptico
