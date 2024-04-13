@@ -1,10 +1,11 @@
-# Ferramenta de Seleção Letreiro
+# Ferramenta de Seleção 
+
+### Letreiro retangular e elíptico
 
 Ctrl + Mouse = adiciona seleção    
 Shift + Mouse = subtrai seleção   
 
-## Letreiro retangular
-
-
-
-## Letreiro elíptico
+# Laço
++ Laço
++ Poligonal   
++ Magnético
