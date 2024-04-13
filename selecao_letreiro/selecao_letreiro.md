@@ -1,4 +1,4 @@
-# Ferramenta de Seleção
+# Ferramenta de Seleção Letreiro
 
 ## Ferramenta de letreiro retangular
 
