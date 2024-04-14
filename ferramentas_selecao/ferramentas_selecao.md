@@ -7,8 +7,8 @@ Shift + Mouse = subtrai seleção
 
 ### Laço
 + Laço    
-+ Poligonal    
-+ Magnético    
++ Laço poligonal    
++ Laço magnético    
 Difusão:     
 Suavisar Serrilha:     
 Largura:     
