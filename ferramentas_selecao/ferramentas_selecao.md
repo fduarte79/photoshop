@@ -11,8 +11,6 @@ Shift + Mouse = subtrai seleção
 + Laço magnético    
 Difusão:     
 Suavisar Serrilha:     
-Largura:     
-Contraste:     
-Frequência:     
-Utilizar a pressão do digitalizador para alterar a largura da caneta:     
-Selecionar a máscara:    
+Largura: especifica uma largura de detecção, o laço detecta arestas na distância especificada a partir do ponteiro. Para alterar o ponto do laço para que ele indique a largura do laço, pressione a tecla Caps Lock.  Colchete à direita (]) para aumentar a largura da aresta em 1 pixel e o colchete à esquerda ([) para diminuir.   
+Contraste: especifica a sensibilidade do laço às arestas da imagem. Um valor maior detecta apenas as arestas que contrastam fortemente com as áreas vizinhas, enquanto um valor menor detecta arestas menos contrastadas.     
+Frequência: taxa com a qual o laço define pontos de fixação.    
