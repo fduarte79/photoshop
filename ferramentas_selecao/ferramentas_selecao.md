@@ -2,6 +2,7 @@
 
 ### Letreiro retangular e elíptico
 
+L = ativa o laço
 Ctrl + Mouse = adiciona seleção    
 Shift + Mouse = subtrai seleção   
 
