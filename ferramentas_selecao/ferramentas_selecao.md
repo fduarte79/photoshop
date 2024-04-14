@@ -5,7 +5,7 @@
 Ctrl + Mouse = adiciona seleção    
 Shift + Mouse = subtrai seleção   
 
-# Laço
+### Laço
 + Laço    
 + Poligonal    
 + Magnético    
