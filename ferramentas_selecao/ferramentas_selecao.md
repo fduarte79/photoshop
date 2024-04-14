@@ -6,9 +6,9 @@ Ctrl + Mouse = adiciona seleção
 Shift + Mouse = subtrai seleção   
 
 # Laço
-+ Laço
-+ Poligonal   
-+ Magnético
++ Laço    
++ Poligonal    
++ Magnético    
 Difusão:     
 Suavisar Serrilha:     
 Largura:     
