@@ -9,3 +9,10 @@ Shift + Mouse = subtrai seleção
 + Laço
 + Poligonal   
 + Magnético
+Difusão:     
+Suavisar Serrilha:     
+Largura:     
+Contraste:     
+Frequência:     
+Utilizar a pressão do digitalizador para alterar a largura da caneta:     
+Selecionar a máscara:    
