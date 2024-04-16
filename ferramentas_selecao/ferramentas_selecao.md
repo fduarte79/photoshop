@@ -28,4 +28,6 @@ Botão modo de editar máscararrápida (Q), inverter os planos, alt + delete, in
 ---
 
 ### Seleção automática
-Ferramenta de seleção de objeto (w), 
++ Seleção de objeto (w): caixas localizar objetos,  
++ seleção rápida:    
++ Vatinha mágica:    
